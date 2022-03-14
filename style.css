@@ -198,6 +198,7 @@ nav{
         margin-right: 5px;
    }
    .search-div{
+       /* width: 90%; */
        margin-left: 10px;
    }
     .nav-left .logo{
@@ -206,7 +207,7 @@ nav{
     }
     .nav-left .menu{
         width: 25px;
-        margin-right: 1px;
+        margin-right: 8px;
     }
     .nav-right .user-pic{
         display: block;
